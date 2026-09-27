@@ -1,0 +1,27 @@
+2026/09/26-13:56:36.475 1d20 Reusing MANIFEST D:/Unreal Engine/Warehouse/KT_Warehouse/Warehouse/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/09/26-13:56:36.652 1d20 Recovering log #4
+2026/09/26-13:56:36.652 1d20 Reusing old log D:/Unreal Engine/Warehouse/KT_Warehouse/Warehouse/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2026/09/26-18:07:26.051 6c8c Level-0 table #8: started
+2026/09/26-18:07:26.111 6c8c Level-0 table #8: 62724 bytes OK
+2026/09/26-18:07:26.169 6c8c Delete type=0 #4
+2026/09/26-18:45:58.286 7490 Level-0 table #10: started
+2026/09/26-18:45:58.336 7490 Level-0 table #10: 64706 bytes OK
+2026/09/26-18:45:58.411 7490 Delete type=0 #7
+2026/09/26-18:46:35.417 6c8c Level-0 table #12: started
+2026/09/26-18:46:36.164 6c8c Level-0 table #12: 64509 bytes OK
+2026/09/26-18:46:36.250 6c8c Delete type=0 #9
+2026/09/26-18:47:49.930 7490 Level-0 table #14: started
+2026/09/26-18:47:49.990 7490 Level-0 table #14: 71022 bytes OK
+2026/09/26-18:47:50.027 7490 Delete type=0 #11
+2026/09/26-18:48:27.687 6c8c Level-0 table #16: started
+2026/09/26-18:48:28.425 6c8c Level-0 table #16: 63373 bytes OK
+2026/09/26-18:48:28.500 6c8c Delete type=0 #13
+2026/09/26-18:48:28.525 6c8c Compacting 4@0 + 1@1 files
+2026/09/26-18:48:28.561 6c8c Generated table #17@0: 4 keys, 17144 bytes
+2026/09/26-18:48:28.561 6c8c Compacted 4@0 + 1@1 files => 17144 bytes
+2026/09/26-18:48:28.597 6c8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/26-18:48:28.598 6c8c Delete type=2 #8
+2026/09/26-18:48:28.598 6c8c Delete type=2 #10
+2026/09/26-18:48:28.598 6c8c Delete type=2 #12
+2026/09/26-18:48:28.598 6c8c Delete type=2 #14
+2026/09/26-18:48:28.598 6c8c Delete type=2 #16
